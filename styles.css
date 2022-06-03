@@ -1,0 +1,17 @@
+body {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.image {
+    width: 400px;
+}
+
+header {
+    font-size: 40px;
+}
+
+.text {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
